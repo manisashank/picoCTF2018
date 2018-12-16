@@ -1,0 +1,17 @@
+The name of the challenge is pipes 
+Here they asked us to connect to their server through their link and port number
+When we connect to that specific port we get a large text file .
+now we should find the flag in this huge text.
+To solve this we have 2 methods .
+Method 1:
+First taking all the text into a text file and find the flag using the cmd "egrep 'picoCTF' filename"
+To take the text to a text file we use cmd "nc link portnumber > file.txt"
+Method 2:
+Second method is by using grep only but here we dont need to take the text to some text file
+so the cmd is "nc link portnumber | grep picoCTF"
+
+
+
+
+
+Then we get the flag that can be submitted... 

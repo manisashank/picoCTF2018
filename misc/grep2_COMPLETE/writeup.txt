@@ -1,0 +1,7 @@
+Now in this challenge they gave the path of the files in their shell.
+So in the shell in the path specified I found many directories and files and it is impossible to grep flag with each file name .
+So for this the cmd is "grep 'picoCTF' -r ." 
+In the above cmd -r indicates grep the text recursively ..
+and the . indicates from the present directort.....
+
+And after executind this cmd I got the flag...

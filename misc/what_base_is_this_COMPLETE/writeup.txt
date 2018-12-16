@@ -1,0 +1,8 @@
+The name of the challenge is what base is this 
+From the name we can assume that the challenge is related to the types of numbers like binary(base 2) decimal(base 10) hexadecimal(base 16)
+octadecimal(base 8).
+They asked us to connect to their servet using a link and port number I did it using the netcat...
+Then first they gave a bunary and asked me to convert it to word .
+We can do this by using the binary to ASCII converters which are present on the internet.
+In the same way next they gave a hexadecimal and asked me to convert to word and then gave an octadecimal number to convert it to word if we solve it we finally get the flag....
+

@@ -1,0 +1,4 @@
+The challenge name is environ and asked us to find the flag that is hidden in the environment variables
+We know that the environment variables can be found in /etc/profile
+So I travelled to this path and found a file with name flag.sh I tried running it by cmd "sh flag.sh" but it was no use so I thought of reading the file might be helpful .
+So I used "cat flag.sh" and found the flag in the code of the flag.sh..............

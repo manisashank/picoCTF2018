@@ -1,0 +1,5 @@
+In this challenge we are given with a file with name strings.
+The name of the challenge given is also strings .
+So we can expect that the flag can be in the strings of the given file.
+So by cmd "strings filename | grep picoCTF" and I got the flag that can be submitted...
+`

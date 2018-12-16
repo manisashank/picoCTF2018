@@ -1,0 +1,3 @@
+Here in this challenge we are given a text file .
+The name of the challenge is grep so we can expect that the grep cmds play an important role in the solving of this challenge.
+Now we can find the flag using cmd "egrep 'picoCTF' filename" and then I got the flag which can be submitted ...
